@@ -1,0 +1,11 @@
+.Opp {
+  background-color: #282c34;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  text-align: center;
+  margin: 0 auto;
+}
+span {
+  color: white;
+}

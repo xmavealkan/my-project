@@ -1,5 +1,15 @@
-.App {
+body{
+  margin: 0;
+  padding: 0;
+}
+.Appp{
   text-align: center;
+  margin: 0 auto;
+}
+.Appp{
+  margin: -10;
+  display: flex;
+  background-color: #282c34;
 }
 
 .App-logo {
